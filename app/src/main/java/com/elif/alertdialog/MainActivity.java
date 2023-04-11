@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
     public void alertd(View view) {
         AlertDialog.Builder alert =new AlertDialog.Builder(this);
         alert.setTitle("Save");
